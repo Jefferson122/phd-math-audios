@@ -103,8 +103,17 @@ Se deben tomar 4 de los siguientes 5 (MATH 675 es obligatorio):
 - Mathematics, PhD — GMU Catalog:
   https://catalog.gmu.edu/colleges-schools/science/mathematical-sciences/mathematics-phd/
 
+## Exámenes preliminares reales (PDF)
+
+Ubicados en `preliminary_exams/`, subidos por el usuario:
+
+- `NA_prelim_2012-01.pdf` — enero 2012
+- `NA_prelim_2014-01.pdf` — enero 2014
+- `NA_prelim_2015-08.pdf` — agosto 2015
+- `NA_prelim_2016-08.pdf` — agosto 2016
+- `NA_prelim_2017-08.pdf` — agosto 2017
+
 ## Pendiente
 
-- [ ] Descargar y agregar el PDF oficial del examen preliminar (`numerical-analysis`).
-- [ ] Descargar y agregar el syllabus completo de MATH 685 (Antil, Fall 2023).
-- [ ] Confirmar el temario completo (secciones 4-6 del examen preliminar, si existen) contactando al departamento (mathug@gmu.edu) si el PDF no aclara todo.
+- [ ] Descargar y agregar el syllabus completo de MATH 685 (Antil, Fall 2023) si se desea.
+- [ ] Revisar si existen exámenes de más años (ej. Dic 2019, ver enlace archivado arriba) para completar la colección.
